@@ -1,0 +1,14 @@
+Normal Total Time : 3.34031200409
+errorRate0.4
+Normal Total Time : 5.96196484566
+errorRate0.4
+Normal Total Time : 4.74463415146
+errorRate0.25
+Normal Total Time : 2.2631020546
+errorRate0.45
+Normal Total Time : 2.2656750679
+errorRate0.4
+Normal Total Time : 2.23179006577
+errorRate0.4
+Normal Total Time : 2.35283613205
+errorRate0.45

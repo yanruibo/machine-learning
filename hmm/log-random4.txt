@@ -1,0 +1,5 @@
+states:5 L:12 M:7 accuracy:0.675
+states:5 L:13 M:7 accuracy:0.62
+states:5 L:14 M:7 accuracy:0.685
+states:5 L:15 M:7 accuracy:0.67
+states:5 L:16 M:7 accuracy:0.675

@@ -1,0 +1,2 @@
+Normal Total Time : 4466.31963205
+errorRate0.6

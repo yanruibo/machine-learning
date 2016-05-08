@@ -1,0 +1,43 @@
+
+Mahalanobis Distance
+
+http://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.spatial.distance.mahalanobis.html
+
+http://kldavenport.com/mahalanobis-distance-and-outliers/
+
+http://www.36dsj.com/archives/24325
+kd tree
+
+http://blog.csdn.net/v_july_v/article/details/8203674
+
+kd tree pseudocode
+
+http://web.stanford.edu/class/cs106l/handouts/assignment-3-kdtree.pdf
+
+https://en.wikipedia.org/wiki/K-d_tree
+
+KDTree:
+k = 3
+the total number of errors is: 11
+
+the total error rate is: 0.011628
+
+
+Original
+k = 3
+the total number of errors is: 13
+
+the total error rate is: 0.013742
+
+MD 
+k = 3
+the total number of errors is: 534
+
+the total error rate is: 0.564482
+
+k = 5
+the total number of errors is: 541
+
+the total error rate is: 0.571882
+Total Time : 545.783592939
+Error Rate : 0.571881606765
